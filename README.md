@@ -22,13 +22,7 @@ Hello, my name is Divya Sakhare and I am a master's student at [University of So
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Divyasakhare07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyasakhare07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Coding Profiles
 
-<p align="left">
-  <a href="https://leetcode.com/u/Divyasakhare07/">
-    <img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="LeetCode" width="80"/>
-  </a>
-</p>
 
 
 
