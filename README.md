@@ -1,15 +1,17 @@
 ### Hi there 👋, I am Divya! 😁
 
 
-Hello, my name is Divya Sakhare and I am a master's student at [University of South Florida](https://www.usf.edu/) majoring in Business Analytics and Information Systems. I am a Data Engineer with two years of experience working at [Accenture](https://www.accenture.com/us-en) My technology stack involves Python, SQL, Pyspark, dbt (Data Build Tool), Airflow, AWS, Azure. Besides programming, I have an immense interest in crocheting.
+Hello, my name is Divya Sakhare and I recently graduated with a Master’s degree in Business Analytics and Information Systems from the University of South Florida. I’m a Data Analyst with two years of experience at Accenture, where I worked on transforming data into actionable insights.
 
+My technical toolkit includes Python, SQL, Tableau, Excel, and dbt, and I’ve also worked with tools like Airflow and cloud platforms such as AWS, Azure, and GCP.
 
-- 🔭 I’m currently working on: Building data pipelines and analytics solutions on Google Cloud Platform (GCP)
-- 🌱 I’m currently learning: Advanced GCP services, BigQuery optimization
-- 👯 I’m looking to collaborate on: Data engineering projects, cloud automation, and open-source analytics tools
-- 💬 Ask me about: SQL, Python, Tableau, Airflow, and cloud data engineering
-- 📫 How to reach me: Connect with me on LinkedIn or GitHub
-- ⚡ Fun fact: When I'm not working with data, I'm designing crochet tops!
+- 🔭 Currently focused on: Building scalable analytics solutions on Snowflake
+- 🌱 Learning: Advanced data modeling, snowflake optimization
+- 👯 Looking to collaborate on: Data analytics, dashboarding, and reporting automation projects
+- 💬 Ask me about: SQL, Python, Tableau, dbt, Airflow, and cloud-based data workflows
+- 📫 Reach me via LinkedIn or GitHub
+- ⚡ Fun fact: When I’m not analyzing data, I’m usually designing and crocheting custom products!
+
 
 **Languages and Tools:** 
 
